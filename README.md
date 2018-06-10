@@ -16,9 +16,7 @@ For more details, please refer to the following demo video and posters.
 
 ## Posters
 
-[![Demo-Poster](ref-pdf/poster-demo.png)](ref-pdf/icmr18-poster-demo.pdf)
-
-[![FullPaper-Poster](ref-pdf/poster-full.png)](ref-pdf/icmr18-poster-full.pdf)
+[![Demo-Poster](ref-pdf/poster-demo.png)](ref-pdf/icmr18-poster-demo.pdf)[![FullPaper-Poster](ref-pdf/poster-full.png)](ref-pdf/icmr18-poster-full.pdf)
 
 
 ## References
